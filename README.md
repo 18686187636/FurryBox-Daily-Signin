@@ -127,7 +127,7 @@
 ### 1. Fork 或克隆仓库
 
 ```bash
-git clone https://github.com/你的用户名/furrybox-checkin.git
+git clone https://github.com/18686187636/furrybox-checkin.git
 cd furrybox-checkin
 ```
 
