@@ -171,7 +171,7 @@ def main():
     exp = jwt_exp(access) if access else 0
     print(f"当前 access_token exp={exp}, now={now}, 剩余 {exp - now} 秒")
 
-    if exp - now < 300:
+    if exp - now < 86400:
         if not refresh:
             msg = "❌ <b>FurryBox</b>\nAccess Token 已过期且无 refresh_token"
             print(msg); notify(msg); return 1
