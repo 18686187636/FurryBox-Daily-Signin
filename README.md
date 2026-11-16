@@ -84,7 +84,7 @@
 5. 从浏览器地址栏复制 Gist ID：
 
    ```
-   https://gist.github.com/你的用户名/a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6
+   https://gist.github.com/你的用户名/a1234d5f4e5f6a7b8c9d0e1f2a3b4c5d6
                                         ↑ 这一段就是 GIST_ID
    ```
 
